@@ -65,7 +65,7 @@ h6 {
     font-weight: 400;
     line-height: 28px;
     letter-spacing: 2px;
-    color: #232323;
+    color: #99ddff;
 
 }
 h1 {
@@ -107,7 +107,7 @@ span {
 a{
     font-size: 13px;
     letter-spacing: 2px;
-    color: #232323;
+    color: #99ddff;
     font-weight: 400;
     text-transform: uppercase;
 }
@@ -136,7 +136,7 @@ ul,ol{
 .section-top-line{
     padding: 60px 0;
     position: relative;
-    border-top: 2px solid #232323; 
+    border-top: 2px solid #99ddff; 
 
 }
 
@@ -147,7 +147,7 @@ ul,ol{
     left: 0;
     height: 1px;
     width: 100%;
-    background: #232323;
+    background: #99ddff;
 }
 
 
@@ -168,7 +168,7 @@ ul,ol{
     left: 0;
     width: 100%;
     height: 100%;
-    background: #232323;
+    background: #99ddff;
     z-index: -1;
     -webkit-transform: scale(0);
     -moz-transform: scale(0);
@@ -250,7 +250,7 @@ ul,ol{
 }
 .social-links li a:hover{
     color: #fff;
-    background: #232323
+    background: #99ddff
 }
 
 .social-links li a:hover i{
@@ -276,7 +276,7 @@ ul,ol{
 .logo{
     float: left;
     padding: 51px 30px 26px;
-    background-color: #232323;
+    background-color: #99ddff;
 
 
 }
@@ -295,7 +295,7 @@ ul,ol{
     display: none;
     margin-right: 30px;
     cursor: pointer;
-    background: #232323;
+    background: #99ddff;
     width: 40px;
     height: 40px;
     text-align: center;
@@ -324,7 +324,7 @@ ul,ol{
 
 #main-nav  ul li ul{
     position: absolute;
-    background: #232323;
+    background: #99ddff;
     width: 200px;
     z-index: 2;
     display: none;
@@ -439,7 +439,7 @@ header.fixed .logo{
 .main-slider .owl-prev:hover,
 .main-slider .owl-next:hover{
     color: #fff;
-    background-color: #232323
+    background-color: #99ddff
 }
 /*******************************************************************
                         end main-slider
@@ -451,7 +451,7 @@ header.fixed .logo{
 
 
 .block{
-    border-top: 2px solid #232323;
+    border-top: 2px solid #99ddff;
     position: relative;
     padding: 30px 0;
 
@@ -464,7 +464,7 @@ header.fixed .logo{
     left: 0;
     height: 1px;
     width: 100%;
-    background: #232323;
+    background: #99ddff;
 }
 
 .text-blck{
@@ -516,7 +516,7 @@ header.fixed .logo{
 }
 
 .services-item span{
-    color: #232323;
+    color: #99ddff;
     font-size: 30px;
 
 }
@@ -530,7 +530,7 @@ header.fixed .logo{
 }
 
 .services-item:hover{
-    background: #232323;
+    background: #99ddff;
     color: #fff;
 }
 
@@ -691,7 +691,7 @@ header.fixed .logo{
     left: 0;
     right: 0;
     bottom: 0;
-    background: rgba(0, 0, 0, 0.7);
+    //background: rgba(0, 0, 0, 0.7);
 }
 
 
@@ -819,7 +819,7 @@ header.fixed .logo{
 }
 .our-team-slider li .team-img .mask ul li a{
     display: inline-block;
-    border: 1px solid #232323;
+    border: 1px solid #99ddff;
     position: relative;
     width: 35px;
     height: 35px;
@@ -829,7 +829,7 @@ header.fixed .logo{
 }
 
 .our-team-slider li .team-img .mask ul li a:hover{
-    background: #232323;
+    background: #99ddff;
     color: #fff;
 }
 
@@ -845,7 +845,7 @@ header.fixed .logo{
 
 }
 .we-are{
-    background: url("http://placehold.it/1920x948")center center fixed;
+    //background: url("http://placehold.it/1920x948")center center fixed;
     background-size: cover;
     text-align: center;
     position: relative;
@@ -855,7 +855,7 @@ header.fixed .logo{
 .we-are:after{
     content: "";
     position: absolute;
-    background-color: rgba(0,0,0,0.8);
+    //background-color: rgba(0,0,0,0.8);
     top: 0;
     left: 0;
     right: 0;
@@ -865,7 +865,7 @@ header.fixed .logo{
 
 
 .we-are h3{
-    color: #fff;
+    //color: #fff;
     position: relative;
     z-index: 2
 }
@@ -919,7 +919,7 @@ header.fixed .logo{
 .gallary-post .owl-prev:hover,
 .post-slide .owl-next:hover,
 .post-slide .owl-prev:hover{
-    background: #232323;
+    background: #99ddff;
     color: #fff;
 }
 
@@ -1135,7 +1135,7 @@ textarea{
 .single-post-img .owl-prev:hover,
 .single-post-img .owl-next:hover{
     color: #fff;
-    background-color: #232323
+    background-color: #99ddff
 }
 
 .comments-area{
@@ -1160,7 +1160,7 @@ textarea{
 .comments-list li .reply-link{
     float: right;
     padding: 10px 25px;
-    background-color: #232323;
+    background-color: #99ddff;
     color: #fff;
     -webkit-transition: 0.3s linear;
     -moz-transition: 0.3s linear;
@@ -1176,7 +1176,7 @@ textarea{
 .comments-list li .avatar{
     float: left;
     margin-right: 15px;
-    border: 1px solid #232323;
+    border: 1px solid #99ddff;
 }
 
 .comments-list li .avatar img{
@@ -1220,7 +1220,7 @@ textarea{
 }
 
 #the-footer p {
-    color: #232323
+    color: #99ddff
 }
 
 /*******************************************************************
@@ -1242,7 +1242,7 @@ textarea{
     font-size: 15px;
     right: 8px;
     bottom: 100px;
-    background: #232323;
+    background: #99ddff;
     cursor: pointer;
     text-align: center;
     z-index: 9999;
