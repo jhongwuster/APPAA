@@ -275,10 +275,14 @@ ul,ol{
 
 .logo{
     float: left;
-    padding: 51px 30px 26px;
+    padding: 30px;
     //background-color: #4b64e2;
 
 
+}
+.logo img{
+max-height:64px;
+max-width:131px
 }
 
 .logo h2,.logo h2 a{
